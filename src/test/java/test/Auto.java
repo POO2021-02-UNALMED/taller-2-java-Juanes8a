@@ -2,11 +2,16 @@ package test;
 public class Auto {
 	String modelo;
 	int precio;
-	Array[Asiento] asientos;
+	Asiento[] asientos;
 	String marca;
 	Motor motor;
 	int registro;
 	static int cantidadCreados;
 	
-	
+	void cantidadAsientos() {
+		
+	}
+	void verificarIntegridad() {
+		
+	}
 }
